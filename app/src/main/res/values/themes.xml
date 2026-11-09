@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.HomeWork" parent="@android:style/Theme.Holo.Light" />
+</resources>
